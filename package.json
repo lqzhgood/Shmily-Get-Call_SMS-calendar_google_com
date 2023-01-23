@@ -1,0 +1,21 @@
+{
+    "name": "callLogs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "logs": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dayjs": "^1.9.3",
+        "ics-to-json": "^1.0.0"
+    },
+    "engines": {
+        "npm": ">=7.0.0",
+        "node": ">=16.0.0"
+    }
+}
