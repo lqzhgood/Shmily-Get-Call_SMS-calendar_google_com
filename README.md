@@ -6,7 +6,8 @@
 
 # 使用
 
-0. 安装 node 环境 [https://github.com/lqzhgood/Shmily]
+0. 安装 node 环境 [http://lqzhgood.github.io/Shmily/guide/setup-runtime/nodejs.html]
 1. 将 `calendar.google.com` 导出的文件命名为 `Calllog.google.com.ics` 放置到 `input` 文件夹中
-2. 命令行执行 `npm run logs`
-3. 生成 `./dist/callLogs_google_ics.json`
+2. 修改 `config.js`
+3. 命令行执行 `npm run logs`
+4. 生成 `数据文件` `./dist/callLogs_google_ics.json`
